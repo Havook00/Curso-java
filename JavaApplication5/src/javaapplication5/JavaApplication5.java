@@ -6,7 +6,7 @@ public class JavaApplication5 {
 
     
     public static void main(String[] args) {
-   System.out 
+   System.out .print("Iniciando mi primera clase ");
     }
     
 }
